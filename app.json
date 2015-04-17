@@ -1,0 +1,21 @@
+{
+	"id": "Moxi9/AmazonS3",
+	"name": "Amazon CDN",
+	"version": "1.0",
+	"settings": {
+		"cdn_enabled": {
+			"info": "Enable CDN",
+			"type": "input:radio",
+			"value": 0
+		},
+		"cdn_amazon_id": {
+			"info": "Amazon Key ID"
+		},
+		"cdn_amazon_secret": {
+			"info": "Amazon Secret Key"
+		},
+		"cdn_bucket": {
+			"info": "Bucket Name"
+		}
+	}
+}
