@@ -1,7 +1,7 @@
 {
 	"id": "PHPfox_AmazonS3",
 	"name": "Amazon CDN",
-	"icon": "http://www.magentocommerce.com/magento-connect/media/catalog/product/cache/9/image/9df78eab33525d08d6e5fb8d27136e95/a/m/amazons3_1.png"
+	"icon": "https://raw.githubusercontent.com/moxi9/phpfox-amazons3/master/assets/app.png",
 	"version": "1.0",
 	"settings": {
 		"cdn_enabled": {
