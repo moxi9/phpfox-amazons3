@@ -2,6 +2,12 @@
 
 namespace Apps\PHPfox_AmazonS3\Model;
 
+/**
+ * PHP class that extends the PHPfox CDN core.
+ * We use
+ *
+ * @package Apps\PHPfox_AmazonS3\Model
+ */
 class CDN extends \Core\CDN {
 
 	/**
