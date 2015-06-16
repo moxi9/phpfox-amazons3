@@ -1,6 +1,6 @@
 <?php
 
-namespace Apps\Moxi9\AmazonS3\Model;
+namespace Apps\PHPfox_AmazonS3\Model;
 
 class CDN extends \Core\CDN {
 
