@@ -2,6 +2,10 @@
 
 namespace Apps\PHPfox_AmazonS3\Model;
 
+if (!defined('CURL_SSLVERSION_TLSv1')) {
+	define('CURL_SSLVERSION_TLSv1', 'TLSv1.x');
+}
+
 /**
  * PHP class that extends the PHPfox CDN core.
  * We use
